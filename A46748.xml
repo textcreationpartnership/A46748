@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some queries, proposed to discover the necessity of magistrates and laws: and engaging to defend both They are writ for those sakes who are not yet come into so great a measure of light and love, and charity, as to bear all things, and to see all things lawful: 'tis light that discovers the lawfulness of things, and charity bears them; and 'tis love that fulfils all law; (and these three are one:) and when all law is fulfilled, or fulled full, where then is there place in such, for unlawful, or law unfilled?</title>
+            <author>Jenings, Francis.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46748</idno><idno type="EEBO-CITATION">99833754</idno>
+  <idno type="VID">38232</idno>
+  <idno type="EEBO-PROQUEST">2240955924</idno>
+  
+            <idno type="STC">Wing J556A</idno>
+            <idno type="STC">ESTC R222600</idno>
+            <idno type="PROQUEST">99833754</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833754e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38232)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2209:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some queries, proposed to discover the necessity of magistrates and laws: and engaging to defend both They are writ for those sakes who are not yet come into so great a measure of light and love, and charity, as to bear all things, and to see all things lawful: 'tis light that discovers the lawfulness of things, and charity bears them; and 'tis love that fulfils all law; (and these three are one:) and when all law is fulfilled, or fulled full, where then is there place in such, for unlawful, or law unfilled?</title>
+                  <author>Jenings, Francis.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.]</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year MDCLXI. [1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Francis Jennings.</note>
+                  <note>Copy stained.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Law --  Philosphy --  Early works to 1800.</term>
+               <term type="topical_term">Justices of the peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38232:1"/>
+            <pb facs="tcp:38232:1"/>
+            <p>SOME QUERIES, Proposed to discover the Necessity of MAGISTRATES And LAWS: AND Engaging to defend both.</p>
+            <p>They are writ for those sakes who are not yet come into so great a measure of Light and Love, and Charity, as to bear all things, and to see all things lawful: 'Tis Light that discovers the lawfulness of things, and Charity bears them; and 'tis Love that fulfils all Law; (and these three are one:) And when all Law is fulfilled, or filled full, where then is there place in such, for unlawful, or Law unfilled?</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year MDCLXI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:38232:2"/>
+            <pb n="1" facs="tcp:38232:2"/>
+            <head>SOME QUERIES, Proposed to discover the Necessity of Magistrates and Lavvs.</head>
+            <p>WHy should any man appeal to the Magistrate for the preservation of his Life or Estate, or any thing else that he is in possession of, or expect, or have preservation from him, if he will not engage to, and defend the Magistrate, both with his Life and Estate, a<g ref="char:EOLhyphen"/>gainst any that shall rise in rebellion against him?</p>
+            <p>Whether the honest people in this Nation could enjoy what they do, without a Magistrate?</p>
+            <p>Why should the Magistrate put the Laws in execution, and so hazard his Life and Estate in the preservation and defence of such, who will not ingage both their Lives and Estates in the assisting and defending of the Magistrate in this his work?</p>
+            <p>Doth not the Magistrate hazard his Life and Estate, by putting the Laws in executi<g ref="char:EOLhyphen"/>tion against evil-doers, by which the well-doers are preserved?</p>
+            <p>How can the Magistrate punish evil-doers, if the well-doers do not assist him? and how shall he know the well and evil-doers, but by their keeping or breaking of his Laws? ought the Magistrate to judge him a well-doer that breaks his Laws? then he must judge him an evil-doer that keeps them.</p>
+            <p>Are not those most engaged to defend the Laws and the Magistrate, that are most in<g ref="char:EOLhyphen"/>clined to meekness, love, and well-doing? for should not such suffer first and most, if there were not a Magistrate to put the Laws in execution?</p>
+            <p>Is not a Level-Law, or that Law that bindes all alike, a good Law?</p>
+            <p>May not the Law-Maker, or Makers, be truly said to keep the command of GOD, which saith, <hi>Love thy Neighbour as thy self,</hi> so far as they make Laws which binde them<g ref="char:EOLhyphen"/>selves equal with their Neighbours? And ought not such to be judged faithful to GOD in the Consciences?</p>
+            <p>Is it lawful before GOD for a man to ingage his own Life, or to pay others for ingaging their lives in the defence of the Laws, and the Magistrate; and yet not lawful before GOD to swear to defend them? Doth GOD allow of the greater, and yet con<g ref="char:EOLhyphen"/>demn the lesser? Is it not less to swear to defend the Magistrate, then to fight, and so hazard the Life in his defence? Is not the Life of more concernment then Words?</p>
+            <p>Is it not lawful before GOD, for a man to defend his Life from a violent illegal death? if not, why then doth GOD forbid Murder? And is it not the best way for a man to prevent bloodshed, by endeavouring to defend his Life from the Murderer,
+<pb n="2" facs="tcp:38232:3"/>seeing the Laws of GOD and Man require Blood for Blood? for by endeavouring to defend my Life, I may preserve my own and his; which surely is well pleasing to GOD in Spirit and Nature.</p>
+            <p>Ought not those that scruple fighting, scruple also to pay Souldiers?</p>
+            <p>Is it not lawful before GOD, for a man to endeavour to preserve his Estate from the Thief? if not, why then doth GOD forbid stealing, and order punishment for it?</p>
+            <p>How should a man know Murder and Theft, if it were not for the Laws of GOD and Man?</p>
+            <p>Is it good that the Lives of Men, Women and Children should be preserved from a violent illegal death? and is it not good to make use of the means for their preserva<g ref="char:EOLhyphen"/>tion? Is not the upholding of the Magistrate, (without which, the Laws could not be in force, or put in execution) the onely visible means that can be used for the preser<g ref="char:EOLhyphen"/>vation of the Lives of Men, Women and Children, from a violent illegal death?</p>
+            <p>And would not violence, even to death, be inforced upon many, and that of the best disposed in this Nation, if it were not for the Laws and the Magistrate, which prevents it?</p>
+            <p>Is it not equal before GOD and Man, that those whose Lives and Estates are preser<g ref="char:EOLhyphen"/>ved by the Laws and the Magistrate, should engage and give up their Lives and Estates again, in the defence of the Law and the Magistrate? and that especially since the Ma<g ref="char:EOLhyphen"/>gistrate hazards his Life and Estate in the defence of them, against such as would take them away contrary to Law?</p>
+            <p>Can there be a well-being amongst men without a Ruler, Governour, Magistrate, or Supreme? and can he stand without assistance? doth not GOD and Nature re<g ref="char:EOLhyphen"/>quire it? nay, is there not a necessity for it, seeing men do not, cannot, or will not go<g ref="char:EOLhyphen"/>vern and rule themselves?</p>
+            <p>Is it ill for a man himself to take an Oath? and is it not ill for that man to desire or reap a benefit by others swearing?</p>
+            <p>Do not those in this Nation, which refuse to swear, reap benefit by other mens swearing? seeing without an Oath there could be no legal Magistrate, nor no Law rightly put in execution, nor no evil prevented, nor no propriety owned, nor nothing but desolation, ruine and confusion amongst men.</p>
+            <p>Would GOD have these Evils prevented, and will he not allow of the means for the preventing of them? could they be prevented, if every man in the Nation had liber<g ref="char:EOLhyphen"/>ty to chuse and refuse what Laws he would keep or not keep, that are made by the Ma<g ref="char:EOLhyphen"/>gistrates?</p>
+            <p>Ought not those (in reason) that refuse to swear, refuse also to reap any benefit by o<g ref="char:EOLhyphen"/>thers swearing? and then must they not dis-own that Priviledge and Propriety which they hold by the vertue of others swearing, whether it be in House, Land, Money, Food, Habit, Wife, Child, or Life, or any thing else, that they are guarded or secured in, by vertue of others swearing?</p>
+            <p>Whether he that sees all the conveniences and good that comes by swearing, and all the inconveniences and evil that would probably come by forbearing, ought not to swear if required? and should he not do evi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to refuse it? and whether such a one ought not to endeavour to inform others of the good of it, that so thereby evil may be prevented?</p>
+            <pb n="3" facs="tcp:38232:3"/>
+            <p> What is swearing before a Magistrate? is it any more then the declaring before man the intent of my heart, according to my understanding, solemnly, in a form of words, desiring GOD's assistance? is it evil to do this?</p>
+            <p>Do you not, all that are soberly religious, or ought you not to do the same, when the Magistrate or any other asks a question of you, or when you speak to a Congrega<g ref="char:EOLhyphen"/>tion? 'tis true, you kiss the Book; what is that more then a visible signe or seal, to de<g ref="char:EOLhyphen"/>monstrate thereby to men, your reality within, to the truth of what you have decla<g ref="char:EOLhyphen"/>red, or shall declare? or do you judge it evil simply to kiss the Bible, or to kiss it for this end, in this manner?</p>
+            <p>Do you not speak, and often use a form of behaviour with your Bodies, that so thereby people may the better understand the verity of your heart? what is that more, which you call swearing, and kissing the Book? You your selves that refuse to swear, do the like thing, in the same manner: You that put off your Hats, do it to fi<g ref="char:EOLhyphen"/>gure forth your insides, and so do you that keep them on: And is not one as good as the other to clear sight? Did you all see your own Actions, and your own in-sides clearly, then you would not blame one another as you do.</p>
+            <p>Can any humane Life be without all the properties in Nature, which make up the humane Nature?</p>
+            <p>Can any Man or Woman live without Wrath and Love? 'Tis true, some have for the most part, more of one then of the other; yet there is none living, but have either su<g ref="char:EOLhyphen"/>preme, at some time: the more love any have, the better 'tis for them; therefore let such demonstrate that they have it, by bearing with, and yeilding to those that have most Truth.</p>
+            <p>Is it evil to say, By GOD I will do this or that? can I do it without him?</p>
+            <p>Is it evil to say, Before GOD? am <hi>I</hi> not always in his presence, or before him? Is it evil to speak truth? There is need enough to discover to you, that you are alike, and do alike, that so your self-conceitedness may fall, and that love may arise each to other, without which 'twill be a sad time with you all in this Nation: for you are a ro<g ref="char:EOLhyphen"/>ving amain to destroy one another: are you quite blinde? can you not see what you are a doing?</p>
+            <p>Is not the same Controversie now among you, as was first, before the late Warre brake out? But it may be that you must dash one another to pieces. <hi>Gods will bo done in Earth, as it is in Heaven; and forgive trespasses, as we forgive one another.</hi>
+            </p>
+            <p>Do not you pray this Prayer? and do you not see how that you pray to GOD not to forgive you?</p>
+            <p>Were it not better for the Nations well-being, to meet at a Passeover, then to meet and divide about chusing Parliament-men? learn of Christ or Light, in this his School, where he teaches self-deny, and to love Enemies: if there be not such a thing as a pass<g ref="char:EOLhyphen"/>over, or bearing one with another, 'twill be worse: a man had better cease to be, then to undertake to govern such a Company of divided confused people, as you be: if there be not a great deal of <hi>Solomon</hi>'s wisdom used by the Governours or Governour in this Nation, 'twill come to ruine: 'tis no jesting matter, unless you can make a jest at ruine. 'Tis true, there is Light that shews Destruction to be as good as Preserva<g ref="char:EOLhyphen"/>tion; and those that can enter into that Light, will be at peace when Destruction comes: but there are but a very small number in being yet, that can enter into that Light, and so be satisfied.</p>
+            <pb n="4" facs="tcp:38232:4"/>
+            <p> Whether those people that expect a happy being in the World to come, ought not, in reason, to give up this present Worlds Happiness to those whom they think must be miserable in the World to come? How can want of love be more manifested, then by desiring the Happiness of both Worlds from their Brother, who by that means partly, is like to have neither?</p>
+            <p>If those who enjoy the internal Excellencies, and see their liberty to t<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> external Excellencies, yet in love and self-deny, refuse to make use of them, by which <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is the more left for those that enjoy not the internal, what just cause have any to be o<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ded with them, for their so doing?</p>
+            <p>This is writ from love to all, to the end that the Magistrate may be strengthned, and Theft, Rebellion and Murder prevented, which is surely good for the generality of men. And though this be writ to inform the Understanding, yet those whose Understandings are not yet informed, but do still, for want of Light, scruple any thing herein contain<g ref="char:EOLhyphen"/>ed, 'tis best for such to be faithful to their measure, till they see the excellent Liberty in Light, which dissolves all Clouds.</p>
+            <p>This following was writ from the sight of a dead Body.</p>
+            <l>THe life in earth, is uncertain,</l>
+            <l>And is so subject unto pain,</l>
+            <l>As that, by death, through pain, it may</l>
+            <l>Be sever'd from its lump of clay;</l>
+            <l>And so it must, that is most sure,</l>
+            <l>And cannot long with earth endure:</l>
+            <l>The lifes with-drawn the case divides;</l>
+            <l>He that sees all, knows what betides</l>
+            <l>Of both, and therein is content,</l>
+            <l>And hath no cause for to repent.</l>
+            <l>Repentance is for want of sight,</l>
+            <l>Or not being one with the Light;</l>
+            <l>Which shows and levels birth and death:</l>
+            <l>What then remains to be of worth?</l>
+            <l>All sorrow must be in darkness,</l>
+            <l>According as 'tis more or less:</l>
+            <l>So is the life from light out-gone,</l>
+            <l>And must by death be made all one.</l>
+            <l>Death puts an end to all discord</l>
+            <l>That is caused by deed or word.</l>
+            <l>When discord's gone, then needs must be</l>
+            <l>According, to eternity.</l>
+            <l>Why then should any be displeas'd</l>
+            <l>With Death, which thus their Friend hath eas'd</l>
+            <l>From sorrow, care, trouble ond fear,</l>
+            <l>Which do attend all that are here?</l>
+            <l>If Death be rightly understood,</l>
+            <l>Where then is there a greater good?</l>
+            <p>A Discovery of the Dogs barking in the dark, which is serviceable to hunt the Sheep and Lambs into the Shepherds will in light: 'tis also for the preservation of the Weak<g ref="char:EOLhyphen"/>lings of the Flock from being desperately frighted, or frighted into despair, by their barking: It is the Gate which leadeth into the Unchangeable Rest in Light, into which, whosoever doth and can enter at any time, they shall be freed from all trou<g ref="char:EOLhyphen"/>ble of minde.</p>
+            <l>IT is the custome of Mankinde,</l>
+            <l>That lives in clouds, and so is blinde,</l>
+            <l>To judge beside the truth of that</l>
+            <l>Which they themselves are troubled at;</l>
+            <l>Because their passions do them sway,</l>
+            <l>Which make them careless what they say,</l>
+            <l>If so by it they can but vend</l>
+            <l>The Furies that do them attend.</l>
+            <l>Is Envie fit to be a Judge?</l>
+            <l>Or he that hath in him a grudge</l>
+            <l>Against the Case, before it be</l>
+            <l>Brought forth for him clearly to see?</l>
+            <l>Why should one fear the judgement of</l>
+            <l>Those people which at light do scoff?</l>
+            <l>Can Darkness judge a right of things?</l>
+            <l>Then Dark must be the King of kings.</l>
+            <pb n="5" facs="tcp:38232:4"/>
+            <l> If Light be Juge, then none need fear,</l>
+            <l>That do before <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Light stand clear:</l>
+            <l>Let dark men juge whate'er they will,</l>
+            <l>Yet those in L<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are fixed still;</l>
+            <l>They alter not at the out-cries</l>
+            <l>Of those that <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nvie blinds their eyes:</l>
+            <l>
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>en what dark men say</l>
+            <l>
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>t have the Light their stay.</l>
+            <l>Not but such may the truth defend;</l>
+            <l>And so thereby the clouds will rend</l>
+            <l>Off from the Eyes of those that are</l>
+            <l>Apt to be prest with fear and care.</l>
+            <l>Did not the world, of old, judge ill</l>
+            <l>Of that wherein they had no skill?</l>
+            <l>Doth not the world now do the same</l>
+            <l>Against the Light from whence they came?</l>
+            <l>If any now do Light obey</l>
+            <l>In singleness, without delay,</l>
+            <l>The world will soon pass their sentence,</l>
+            <l>That such are fit to be sent hence:</l>
+            <l>They charge them with the worst of ill;</l>
+            <l>Whenas it is not in their will</l>
+            <l>To harm their greatest Enemy</l>
+            <l>At all, much less those that are nigh</l>
+            <l>To them in Nature or elsewhere;</l>
+            <l>But rather hurt themselves with fear,</l>
+            <l>Lest it should happen so to be,</l>
+            <l>Such is their love; until they see</l>
+            <l>That birth and death, sickness and health,</l>
+            <l>Adversity and worldly wealth,</l>
+            <l>Come not by chance to any one,</l>
+            <l>But are ordered from light alone;</l>
+            <l>The thing and time, the means and place,</l>
+            <l>Come all in a prefixed race:</l>
+            <l>Man cannot change Wisdoms decree,</l>
+            <l>Either in health or misery.</l>
+            <l>He that is one with this same Light,</l>
+            <l>Sees all things ordered aright;</l>
+            <l>And hath no cause for to complain</l>
+            <l>At his own loss, or others gain:</l>
+            <l>Ʋnless he should complain of Light,</l>
+            <l>For doing something that's not right;</l>
+            <l>As all the world do, in the dark,</l>
+            <l>For want of light to hit the mark.</l>
+            <l>Will any man presume to say,</l>
+            <l>That he can lengthen-life a day</l>
+            <l>Longer then God hath ordered it?</l>
+            <l>Or can it shortened be one whit?</l>
+            <l>If the Supreme hath the time set,</l>
+            <l>Where then is he that can it let?</l>
+            <l>Is there not one supreme Ruler,</l>
+            <l>That governs all, and cannot erre?</l>
+            <l>Can there be two Supremes? how so?</l>
+            <l>Is there two High'st? I must say, No:</l>
+            <l>The High'st is one, and there's not two;</l>
+            <l>The rest are subject thereunto.</l>
+            <l>If darkness did not man beset,</l>
+            <l>He would not then be in a fret,</l>
+            <l>Complaining at what here is done,</l>
+            <l>Beneath the Light, the Life, and Sun,</l>
+            <l>Which orders all things here below;</l>
+            <l>'Tis darkness that causes the wo:</l>
+            <l>The miseries of all mankinde,</l>
+            <l>Are chiefly from their being blinde:</l>
+            <l>The light alone can save them all</l>
+            <l>From what was caused by the Fall:</l>
+            <l>The Fall remains whilst evil is:</l>
+            <l>In the clear sight there's nought amiss.</l>
+            <l>Are not all things here, govern'd by</l>
+            <l>The Strength and Light that is most High?</l>
+            <l>If the most High doth not rule all,</l>
+            <l>Who is it then that can or shall?</l>
+            <l>Can the Supreme be put beside</l>
+            <l>The ordering of what doth betide?</l>
+            <l>Who is't that can put by the same?</l>
+            <l>'Tis fit that he should have the name.
+<note place="margin">Supreme.</note>
+            </l>
+            <l>Why should not the Supreme rule we?</l>
+            <l>Is any one more fit then He,</l>
+            <l>Which is the greatest Strength and Light?</l>
+            <l>Can any one do it so right?</l>
+            <l>Whence must that Power be, that shall</l>
+            <l>Rule over That that caused all?</l>
+            <l>Did Men or Angels, by their Fall,</l>
+            <l>Gain rule o'er That that ruled all?</l>
+            <l>How blind are they that do think so?</l>
+            <l>Was that their Fall? what's then their wo?</l>
+            <l>The Fall was GOD's then, and not theirs:</l>
+            <l>Thus darkness leads men into snares.</l>
+            <l>What greater rise could there have bin,</l>
+            <l>Or greater gain, then so to sin?</l>
+            <l>Was GOD the Lord of all before?</l>
+            <l>And was he then turn'd out of dore?</l>
+            <l>Could the Misdeeds of any one,</l>
+            <l>The Supreme Power so unthrone?</l>
+            <l>The time is come, that men must see</l>
+            <l>How blinde they have been, and still be,</l>
+            <pb n="6" facs="tcp:38232:5"/>
+            <l> To think that GOD's Supremacie</l>
+            <l>Was lost by mans infirmity;</l>
+            <l>Or that the devil, by his Fall,</l>
+            <l>Came thus to be the lord of all:</l>
+            <l>If so, then well they may complain</l>
+            <l>Against the subtile old Serpain;</l>
+            <l>Who thus should gain Supremacie</l>
+            <l>Over his Maker, the most High.</l>
+            <l>Or did that Power which did make</l>
+            <l>All things, so much it self mistake,</l>
+            <l>As to set up some other thing</l>
+            <l>Above it self, to be its King?</l>
+            <l>How could it possibly be done?</l>
+            <l>But yet, if any, then his Son;</l>
+            <l>And not a devil to bear sway</l>
+            <l>Above himself: were that the way</l>
+            <l>To be at peace in purity,</l>
+            <l>And set the devil the most high?</l>
+            <l>Could Wisdom bring forth such a thing,</l>
+            <l>As devil to be supreme King?</l>
+            <l>A creature to be lord of all!</l>
+            <l>And this obtained by his Fall!</l>
+            <l>Ye sons of men, learn to be wise;</l>
+            <l>Return to that which clears the eyes;</l>
+            <l>And then you'll see how all things are,</l>
+            <l>And so be freed from fear and care,</l>
+            <l>About your soul's damnation:</l>
+            <l>But first you must live in the Son,</l>
+            <l>Who is the Light so fully free,</l>
+            <l>As that it cannot damned be:</l>
+            <l>Men cannot see the cause of things;</l>
+            <l>And thus darkness their trouble brings.</l>
+            <l>This trouble helps to break the minde.</l>
+            <l>Off from that which doth keep them blind.</l>
+            <l>Thus trouble's good and evil too;</l>
+            <l>Else why should any make ado</l>
+            <l>To be released out of it,</l>
+            <l>If they did judge it very fit?</l>
+            <l>You that complain, turn in and see:</l>
+            <l>You blame the devil, is it he?</l>
+            <l>Or else you blame some men or thing,</l>
+            <l>As if they did your trouble bring:</l>
+            <l>'Tis true, these may be instruments,</l>
+            <l>And are to finish Gods intents.</l>
+            <l>What are they more? why will you blame</l>
+            <l>The instrument? you'll not for shame</l>
+            <l>Blame God I hope: who shall be blam'd?</l>
+            <l>
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay finde him out; else be asham'd.</l>
+            <l>Hereafter, when you do <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>At your own <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>,</l>
+            <l>Tis darkness that finds all <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fault,</l>
+            <l>And that must be, if there <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ght</l>
+            <l>If dark were not, what c<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ul have been</l>
+            <l>Created here, for to be seen</l>
+            <l>VVhat use would there be of <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>If creatures were not for the sight,</l>
+            <l>The light dissolves, <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s I have done,</l>
+            <l>What it brings forth from the All-One,</l>
+            <l>VVhich is it self the Highest Good,</l>
+            <l>And is but rarely understood.</l>
+            <l>Can GOD be all in all, till we</l>
+            <l>Our own nothingness do see?</l>
+            <l>Can we be nothing, while we are</l>
+            <l>Subject to fear and taking care?</l>
+            <l>If God be all in all, how then</l>
+            <l>Can we finde fault with any men?</l>
+            <l>The light alone can satisfie</l>
+            <l>All those that do to it draw nigh:</l>
+            <l>It shews the <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and c<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e of things,</l>
+            <l>And so thereby content it brings.</l>
+            <l>There's nothing else can long suffice</l>
+            <l>That life that doth i<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> chiefly prize.</l>
+            <l>But as for those who love the earth,</l>
+            <l>They cannot have so great a worth</l>
+            <l>To he with them, as light doth give</l>
+            <l>Ʋnto all those that with it live.</l>
+            <l>The life in transitoriness</l>
+            <l>Is troubled either more or less:</l>
+            <l>The life in light is quite set free</l>
+            <l>From trouble, and shall ever be.</l>
+            <l>VVhat more is there to be desir'd,</l>
+            <l>Then so to live in light, retir'd</l>
+            <l>From fear and care, which troubles bring;</l>
+            <l>'Tis trouble that's their chiefest sting.</l>
+            <l>If trouble be by light dissolv'd,</l>
+            <l>Then is the life in light involv'd;</l>
+            <l>And is at peace in that clear sight</l>
+            <l>VVhich shews all things here to be right.</l>
+            <l>The trouble 'tis that makes them wrong,</l>
+            <l>No trouble doth to light belong;</l>
+            <l>VVhich made all things, and maketh still,</l>
+            <l>According to the Highest Will;</l>
+            <l>In which alone there is the peace</l>
+            <l>VVhich never did, nor shall there cease.</l>
+            <closer>
+               <signed>Francis Jennings</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38232:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
